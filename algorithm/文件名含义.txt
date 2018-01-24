@@ -1,0 +1,8 @@
+FINOVLP_BS：基于FIC_BS算法的FINOVLP算法
+SIMP：simplification故障定位方法
+SIMP_MUL：基于simplification的非重叠的多故障模式定位算法MUL
+RI_MUL：基于RI的非重叠的多故障模式定位算法MUL
+SRI_MUL：基于SRI的非重叠的多故障模式定位算法MUL
+BFSTRT：基于广度优先搜索挑选策略的关系树模型
+DFSTRT：基于深度优先搜索挑选策略的关系树模型
+LPTRT：基于最长路径挑选策略的关系树模型
